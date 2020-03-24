@@ -42,7 +42,7 @@ function change(){
         $message = fetch_value($code1,'"message":"','"');
         if(strpos($code1, 'Promo kamu sudah bisa dipakai pak')){
         echo "\n".color("green","+] Message: ".$message);
-                //coba voc alfa
+                /*coba voc alfa
                 echo "\n".color("yellow","!] Claim voc Alfa");
         echo "\n".color("yellow","!] tunggu bos!!!");
         for($a=1;$a<=3;$a++){
@@ -53,7 +53,7 @@ function change(){
         $message = fetch_value($code1,'"message":"','"');
         if(strpos($code1, 'Promo kamu sudah bisa dipakai pak')){
         echo "\n".color("green","+] Message: ".$message);
-                //end coba voc alfa
+                end coba voc alfa*/
         goto gocar;
         }else{
         echo "\n".color("red","-] Message: ".$message);
