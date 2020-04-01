@@ -195,7 +195,7 @@ echo "\e[92m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬�
          echo color("red","-] Nomor sudah teregistrasi");
          echo"\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n";
          echo color("yellow","!] Silahkan registrasi kembali\n");
-         goto ulang;
+         
          }
 //  }
 
